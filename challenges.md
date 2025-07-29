@@ -118,20 +118,19 @@
    - **Category:** Reverse Engineering  
    - **Description:** Do Recon on the Rivian HIL to pivot into the vehicle  
    - **Solve Guide:**  
-     1. Find an update binary for the CGM on the TCM (you have shell from KTWHF),  
-     2. RE the CGM image, find where to grab the flag info from the module over the network.  
-     3. Grab the key/data from actual CGM on the HIL (flag) over DOIP, read memory by address  
-     4. Flag contains info for getting on truck via Nebula
+      1. Find an update binary for the CGM on the TCM (you have shell from KTWHF),  
+      2. RE the CGM image, find where to grab the flag info from the module over the network.  
+      3. Grab the key/data from actual CGM on the HIL (flag) over DOIP, read memory by address  
+      4. Flag contains info for getting on truck via Nebula
 
 ---
 
 ## **10. Challenge Name:** 1337 YEET Adventure
-
-    - **Intended Difficulty:** Hard  
-    - **Submitter:** Rivian  
-    - **Category:** Vehicle Network  
-    - **Description:** Abuse the telematics module to unlock the vehicle  
-    - **Solve Guide:**  
+   - **Intended Difficulty:** Hard  
+   - **Submitter:** Rivian  
+   - **Category:** Vehicle Network  
+   - **Description:** Abuse the telematics module to unlock the vehicle  
+   - **Solve Guide:**  
       1. With info gleaned from Reversing up the Mountain, you should find the right command to unlock the vehicle over UDS  
       2. User will have to connect to the truck over nebula and figure out how to redirect traffic from telematics to CGM (nebula unsafe routes)  
       3. Unlock the doors, flag inside the vehicle.
