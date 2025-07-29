@@ -1,4 +1,4 @@
-1. ## **Challenge Name:** Updates are TUF\#
+## **1. Challenge Name:** Updates are TUF\#
 
    - **Intended Difficulty:** Easy  
    - **Submitter:** Red Balloon Security  
@@ -15,7 +15,7 @@
 
 ---
 
-2. ## **Challenge Name:** One Key to Root Them All
+## **2. Challenge Name:** One Key to Root Them All
 
    - **Intended Difficulty:** Medium/Hard  
    - **Submitter:** Red Balloon Security  
@@ -35,7 +35,7 @@
 
 ---
 
-3. ## **Challenge Name:** RPS FTW (Speedometer SAO)
+## **3. Challenge Name:** RPS FTW (Speedometer SAO)
 
    - **Intended Difficulty:** Medium/Hard  
    - **Submitter:** Uberwoozle  
@@ -52,7 +52,7 @@
 
 ---
 
-4. ## **Challenge Name:** CAN you enumerate? (Main CHV Badge)
+## **4. Challenge Name:** CAN you enumerate? (Main CHV Badge)
 
    - **Intended Difficulty:** Easy  
    - **Submitter:** Linted  
@@ -63,7 +63,7 @@
 
 ---
 
-5. ## **Challenge Name:** Vehicle inspection (Main CHV Badge)
+## **5. Challenge Name:** Vehicle inspection (Main CHV Badge)
 
    - **Intended Difficulty:** Easy  
    - **Submitter:** Linted  
@@ -74,7 +74,7 @@
 
 ---
 
-6. ## **Challenge Name:** Traffic check (Main CHV Badge)
+## **6. Challenge Name:** Traffic check (Main CHV Badge)
 
    - **Intended Difficulty:** Easy  
    - **Submitter:** Linted  
@@ -86,7 +86,7 @@
 
 ---
 
-7. ## **Challenge Name:** Test Drive (Main CHV Badge)
+## **7. Challenge Name:** Test Drive (Main CHV Badge)
 
    - **Intended Difficulty:** Easy  
    - **Submitter:** Linted  
@@ -97,7 +97,7 @@
 
 ---
 
-8. ## **Challenge Name:** Keep The World Hacking Forever
+## **8. Challenge Name:** Keep The World Hacking Forever
 
    - **Intended Difficulty:** Easy/Medium  
    - **Submitter:** Rivian  
@@ -111,7 +111,7 @@
 
 ---
 
-9. ## **Challenge Name:** Reversing up the mountain
+## **9. Challenge Name:** Reversing up the mountain
 
    - **Intended Difficulty:** Hard  
    - **Submitter:** Rivian  
@@ -125,7 +125,7 @@
 
 ---
 
-10. ## **Challenge Name:** 1337 YEET Adventure
+## **10. Challenge Name:** 1337 YEET Adventure
 
     - **Intended Difficulty:** Hard  
     - **Submitter:** Rivian  
